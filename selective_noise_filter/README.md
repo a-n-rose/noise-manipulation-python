@@ -1,6 +1,6 @@
 ## Very Basic Selective Noise Filter
 
-This will perform a simple demonstration of reducing or removing a noise in your environmen. If you run the script, it will record for 5 seconds. The goal here is to tell the program which noise you don't like. 
+This will perform a simple demonstration of reducing or removing a noise in your environment. If you run the script, it will record for 5 seconds. The goal here is to tell the program which noise you don't like. 
 
 Next it will record for 20 seoncds. This is to get the natural environment, however that is. You can be talking, writing, listening to music, whatever.
 
